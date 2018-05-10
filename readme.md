@@ -1,7 +1,12 @@
-# My Header
+# First Test Website
 
-first paragraph
+Used So Far
 
-## Heading 2
-### Heading 3
-#### Heading 4
+## HTML5
+provided basic layout
+### CSS3
+added styling and visual interest
+#### GIT
+compiling of multiple versions
+##### GIT HUB
+upstream of website / hosting
